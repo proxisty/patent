@@ -1,0 +1,52 @@
+
+------------------------------------------------------------------------------------------
+Класс 9
+Найдено совпадение с одним вариантом в количестве 19 штук:
+electronic interactive whiteboards; electronic notice boards; interfaces for computers; magnetic data media; optical data media; computer software platforms, recorded or downloadable; speed checking apparatus for vehicles; navigation apparatus for vehicles [on-board computers]; satellite navigational apparatus; computer software applications, downloadable; computer programs, downloadable; computer screen saver software, recorded or downloadable; electronic publications, downloadable; steering apparatus, automatic, for vehicles; downloadable image files; downloadable music files; USB flash drives; downloadable graphics for mobile phones; 
+
+Найдено несколько переводов в количестве 0:
+[]
+Не найдено переводов в количестве 4
+обеспечение программное для компьютеров; программы для компьютеров; программы операционные для компьютеров; файлы звуковые, загружаемые для звонков мобильных телефонов
+------------------------------------------------------------------------------------------
+Класс 35
+Найдено совпадение с одним вариантом в количестве 55 штук:
+arranging subscriptions to telecommunication services for others; rental of advertising space; business intermediary services relating to the matching of potential private investors with entrepreneurs needing funding; computerized file management; invoicing; demonstration of goods; opinion polling; market studies; business investigations; business management and organization consultancy; business organization consultancy; business management consultancy; professional business consultancy; consultancy regarding advertising communication strategies; layout services for advertising purposes; marketing; marketing in the framework of software publishing; targeted marketing; updating and maintenance of information in registries; updating and maintenance of data in computer databases; updating of advertising material; word processing; payroll preparation; data search in computer files for others; business management assistance; commercial or industrial management assistance; providing business information; providing business information via a website; providing commercial and business contact information; providing commercial information and advice for consumers in the choice of products and services; providing user reviews for commercial or advertising purposes; presentation of goods on communication media, for retail purposes; sales promotion for others; rental of advertising time on communication media; publicity material rental; publication of publicity texts; development of advertising concepts; dissemination of advertising matter; registration of written communications and data; online advertising on a computer network; compilation of information into computer databases; business inquiries; systemization of information into computer databases; negotiation of business contracts for others; compiling indexes of information for commercial or advertising purposes; drawing up of statements of accounts; interim business management; outsourced administrative management for companies; business project management services for construction projects; administrative processing of purchase orders; administrative services for the relocation of businesses; gift registry services; price comparison services; procurement services for others [purchasing goods and services for other businesses]; outsourcing services [business assistance]
+
+Найдено несколько переводов в количестве 4:
+["ведение бухгалтерских документов": "book-keeping; accounting"
+, "предоставление рейтингов пользователей в коммерческих или рекламных целях": "providing user rankings for commercial or advertising purposes; providing user ratings for commercial or advertising purposes"
+, "реклама": "advertising; publicity"
+, "услуги по поисковой оптимизации продвижения продаж": "search engine optimization for sales promotion; search engine optimisation for sales promotion"
+]
+Не найдено переводов в количестве 14
+агентства по импорту-экспорту; агентства по коммерческой информации; бюро по найму; посредничество коммерческое; предоставление места для онлайн-продаж покупателям и продавцам товаров и услуг; предоставление перечня веб-сайтов с коммерческой или рекламной целью; предоставление торговых �?нтернет-площадок покупателям и продавцам товаров и услуг; рассылка рекламных материалов; редактирование рекламных текстов; службы консультативные по управлению бизнесом; согласование и заключение коммерческих операций для третьих лиц; услуги PPC; услуги по программированию встреч [офисные функции]; услуги рекламные «оплата за клик»
+------------------------------------------------------------------------------------------
+Класс 39
+Найдено совпадение с одним вариантом в количестве 64 штук:
+motor coach rental; boat rental; garage rental; rental of vehicle roof racks; aircraft rental; parking place rental; rental of warehouses; rental of tractors; transport reservation; towing; vehicle breakdown towing services; message delivery; parcel delivery; delivery of goods; delivery of goods by mail order; flower delivery; transportation logistics; arranging of passenger transportation services for others via an online application; arranging of transportation for travel tours; hauling; carting; transporting furniture; lighterage services; ferry-boat transport; removal services; transport of travellers; guarded transport of valuables; bus transport; car transport; barge transport; boat transport; railway transport; marine transport; passenger transport; river transport; ambulance transport; porterage; shipbrokerage; transport brokerage; providing driving directions for travel purposes; providing traffic information; providing information relating to storage services; providing transportation information; car rental; rental of storage containers; vehicle rental; stevedoring; unloading cargo; ; chauffeur services; pleasure boat transport; car sharing services; courier services [messages or merchandise]; gift wrapping; taxi transport; transport; transport services for sightseeing tours; luggage storage; freight [shipping of goods]; freighting; physical storage of electronically stored data or documents; boat storage; storage of goods; freight forwarding
+
+Найдено несколько переводов в количестве 5:
+["перевозка и хранение отходов": "transport and storage of waste; transport and storage of trash"
+, "перевозки трамвайные": "tram transport; streetcar transport"
+, "посредничество при фрахтовании": "freight brokerage [forwarding (Am.)]; freight brokerage"
+, "услуги автостоянок": "parking lot services; car park services"
+, "хранение товаров на складах": "storage; warehousing"
+]
+Не найдено переводов в количестве 1
+прокат рефрижераторов
+------------------------------------------------------------------------------------------
+Класс 42
+Найдено совпадение с одним вариантом в количестве 28 штук:
+computer system analysis; recovery of computer data; graphic design of promotional materials; installation of computer software; computer security consultancy; computer software consultancy; data security consultancy; vehicle roadworthiness testing; updating of computer software; monitoring of computer systems to detect breakdowns; software as a service [SaaS]; maintenance of computer software; conversion of data or documents from physical to electronic media; providing information relating to computer technology and programming via a website; conversion of computer programs and data, other than physical conversion; computer system design; rental of web servers; rental of computer software; development of computer platforms; computer software design; creating and designing website-based indexes of information for others [information technology services]; creating and maintaining websites for others; computer programming; duplication of computer programs; off-site data backup; telecommunications technology consultancy; data encryption services; electronic data storage
+
+Найдено несколько переводов в количестве 0:
+[]
+Не найдено переводов в количестве 11
+консультации в области информационных технологий; консультации по вопросам информационной безопасности; мониторинг компьютерных систем с удаленным доступом; предоставление поисковых средств для �?нтернета; предоставление программной платформы готовой к использованию облачных сервисов [PaaS]; размещение компьютерных сайтов [веб-сайтов]; размещение серверов; сервер хостинг; услуги «облачных» вычислений; услуги внешние в области информационных технологий; услуги консультационные в области информационных технологий
+
+
+Для класса 9 всего 23 услуг.
+Для класса 35 всего 73 услуг.
+Для класса 39 всего 70 услуг.
+Для класса 42 всего 39 услуг.
